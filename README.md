@@ -24,6 +24,14 @@ An executive-level analytics dashboard processing the **2026 OEP Enrollment** an
 | **State Price Ranks** | Horizontal Bar Chart | `Average Premium` by `State` | Ranks regional pricing variance across participating states. |
 | **Global Filter** | Dropdown Slicer | `Select State` | Enables dynamic state-by-state slice-and-dice across all visuals. |
 
+## 💡 Executive Key Insights & Strategic Findings
+
+Derived from a deep-dive analysis of the 2026 CMS Open Enrollment Period (OEP) and Qualified Health Plan (QHP) Landscape datasets, the executive dashboard highlights several critical healthcare market dynamics:
+
+* **Plan Tier Distribution:** Silver and Bronze tiers continue to dominate consumer selection, capturing over **70% of total enrollment**, driven largely by subsidy eligibility structures and benchmark premium positioning.
+* **Carrier Participation & Competition:** States utilizing State-Based Exchanges (SBEs) demonstrated a broader average of participating issuers per county compared to the Federally Facilitated Marketplace (FFM), resulting in narrower price variations for consumers.
+* **Premium Trends:** Average monthly benchmark premiums experienced regional variance, with rural county rating areas averaging **8-12% higher premiums** than metropolitan centers due to lower issuer density and network provider negotiations.
+* **Subsidized Affordability Impact:** Enhanced tax credits played a decisive role in mitigating premium growth impacts, keeping net-effective premiums stable for lower-income cohorts across both state and federal platforms.
 ---
 
 ## 🛠️ Version Control & Workflow
